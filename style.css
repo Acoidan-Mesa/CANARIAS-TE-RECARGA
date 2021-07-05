@@ -1,0 +1,7 @@
+body {
+  background: url(https://canariasterecarga.com/wp-content/uploads/2020/01/pruebaFondo.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
